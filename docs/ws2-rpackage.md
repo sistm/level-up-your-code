@@ -1,6 +1,7 @@
 # 📦 Workshop 2: Package Your Code
 
-[![R Package](https://img.shields.io/badge/Workshop-R_Package-green?style=for-the-badge&logo=r)](https://sistm.github.io/level-up-your-code/ws1-renv.html)
+[![R Package](https://img.shields.io/badge/Workshop-R_Package-green?style=for-the-badge&logo=r)](https://sistm.github.io/level-up-your-code/ws2-rpackage.html)
+
 > “Turn your R scripts into shareable, installable, and testable tools.”  
 > — <i>Level UP your Code! – Workshop 2</i>
 

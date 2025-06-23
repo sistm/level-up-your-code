@@ -22,8 +22,8 @@
 | Workshop              | Description                                                  | Link                              |
 |-----------------------|--------------------------------------------------------------|-----------------------------------|
 | 🧪 **Renv**           | Create a seamless R environment for reproducibility          | [![Renv Guide](https://img.shields.io/badge/Workshop-Renv-blue?style=for-the-badge&logo=r)](https://sistm.github.io/level-up-your-code/ws1-renv.html)  |
-| 📦 **R Package**      | Package and share your R code for reuse and collaboration    | [![R Package](https://img.shields.io/badge/Workshop-R_Package-green?style=for-the-badge&logo=r)](https://sistm.github.io/level-up-your-code/ws1-renv.html) |
-| 🛠️ **GitHub**         | Use GitHub for versioning, collaboration, and deployment     | [![GitHub](https://img.shields.io/badge/Workshop-GitHub-black?style=for-the-badge&logo=github)](https://sistm.github.io/level-up-your-code/ws1-renv.html) |
+| 📦 **R Package**      | Package and share your R code for reuse and collaboration    | [![R Package](https://img.shields.io/badge/Workshop-R_Package-green?style=for-the-badge&logo=r)](https://sistm.github.io/level-up-your-code/ws2-rpackage.html) |
+| 🛠️ **GitHub**         | Use GitHub for versioning, collaboration, and deployment     | [![GitHub](https://img.shields.io/badge/Workshop-GitHub-black?style=for-the-badge&logo=github)](https://sistm.github.io/level-up-your-code/ws3-gtihub.html) |
 
 ---
 
