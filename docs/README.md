@@ -63,15 +63,11 @@ By the end of this workshop series, you'll be able to:
 
 ## 🧰 Explore the Tools
 
-<div align="center">
-
-[![Renv Guide](https://img.shields.io/badge/Workshop_1-Renv-276DC3?style=flat-square)](./ws1-renv.md)
+[![Renv Guide](https://img.shields.io/badge/Workshop-Renv-blue?style=for-the-badge&logo=r)](./ws1-renv.md)
 
 [![R Package](https://img.shields.io/badge/Workshop-R_Package-green?style=for-the-badge&logo=r)](./ws2-rpackage.md)
 
 [![GitHub](https://img.shields.io/badge/Workshop-GitHub-black?style=for-the-badge&logo=github)](./ws3-github.md)
-
-</div>
 
 ---
 
