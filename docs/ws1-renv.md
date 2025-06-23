@@ -1,5 +1,8 @@
 # 🧪 Workshop 1: Reproducible Environments with `renv`
 
+
+[![Renv Guide](https://img.shields.io/badge/Workshop-Renv-blue?style=for-the-badge&logo=r)](https://sistm.github.io/level-up-your-code/ws1-renv.html)
+
 > “Reproducibility is the first step toward trustworthy science.”  
 > — <i>Level UP your Code! – Workshop 1</i>
 

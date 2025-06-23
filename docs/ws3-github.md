@@ -1,5 +1,6 @@
 # 🛠️ Workshop 3: Save, Share & Deploy with GitHub
 
+[![GitHub](https://img.shields.io/badge/Workshop-GitHub-black?style=for-the-badge&logo=github)](https://sistm.github.io/level-up-your-code/ws1-renv.html)
 > “Versioning your code is like writing its history. GitHub makes it immortal.”  
 > — <i>Level UP your Code! – Workshop 3</i>
 

@@ -4,13 +4,6 @@
 
 ---
 
-<div align="center">
-    <img src="./assets/bph-logo.png" alt="BPH" height="50"/>
-    <img src="./assets/sistm-logo.png" alt="SISTM" height="50" style="margin-right: 20px;"/>
-</div>
-
----
-
 > A 3-part hands-on workshop series hosted at **BPH – Bordeaux Population Health**, animated by [Jad El Karchi](https://www.linkedin.com/in/jad-el-karchi/), to empower you to write **reproducible**, **deployable**, and **maintainable** R code.
 
 ---
@@ -28,9 +21,9 @@
 
 | Workshop              | Description                                                  | Link                              |
 |-----------------------|--------------------------------------------------------------|-----------------------------------|
-| 🧪 **Renv**           | Create a seamless R environment for reproducibility          | [![Renv Guide](https://img.shields.io/badge/Workshop-Renv-blue?style=for-the-badge&logo=r)](./ws1-renv.md)  |
-| 📦 **R Package**      | Package and share your R code for reuse and collaboration    | [![R Package](https://img.shields.io/badge/Workshop-R_Package-green?style=for-the-badge&logo=r)](./ws2-rpackage.md) |
-| 🛠️ **GitHub**         | Use GitHub for versioning, collaboration, and deployment     | [![GitHub](https://img.shields.io/badge/Workshop-GitHub-black?style=for-the-badge&logo=github)](./ws3-github.md) |
+| 🧪 **Renv**           | Create a seamless R environment for reproducibility          | [![Renv Guide](https://img.shields.io/badge/Workshop-Renv-blue?style=for-the-badge&logo=r)](https://sistm.github.io/level-up-your-code/ws1-renv.html)  |
+| 📦 **R Package**      | Package and share your R code for reuse and collaboration    | [![R Package](https://img.shields.io/badge/Workshop-R_Package-green?style=for-the-badge&logo=r)](https://sistm.github.io/level-up-your-code/ws1-renv.html) |
+| 🛠️ **GitHub**         | Use GitHub for versioning, collaboration, and deployment     | [![GitHub](https://img.shields.io/badge/Workshop-GitHub-black?style=for-the-badge&logo=github)](https://sistm.github.io/level-up-your-code/ws1-renv.html) |
 
 ---
 
