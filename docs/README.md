@@ -4,7 +4,7 @@
 
 ---
 
-> A 3-part hands-on workshop series hosted at **BPH – Bordeaux Population Health**, animated by [Jad El Karchi](https://www.linkedin.com/in/jad-el-karchi/), to empower you to write **reproducible**, **deployable**, and **maintainable** R code.
+> A 3-part hands-on workshop series hosted at **BPH – Bordeaux Population Health**, to empower you to write **reproducible**, **deployable**, and **maintainable** R code.
 
 ---
 
@@ -39,7 +39,6 @@ By the end of this workshop series, you'll be able to:
 
 ## 👨‍💻 About the Author
 
-I'm **Jad El Karchi**, a software engineer and AI researcher.  
+I'm **Jad El Karchi**, a software & AI engineer.  
 I help research teams improve the **reproducibility, sharing, and deployment** of their scientific code.
 
-🔗 [More about me →](https://www.linkedin.com/in/jad-el-karchi/)
